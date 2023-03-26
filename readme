@@ -1,0 +1,23 @@
+Installation procedure of the project in local
+----------------------------------------------------
+
+1.do a clone of the whole repo into an server folder.
+2.add an .env file with a value named MONGOURI="your mongoDB URI".
+3.run npm i (to download all the node modules) 
+4.run command  npm start or npm run dev(for development purpose with nodemon)
+
+the whole server (Back-End part is hosted on render.com)
+here is the link--> 
+
+https://dynamic-table-server.onrender.com
+
+the client site also fetch and sends data through this API endpoint.
+----------------------------------------
+Stacks I've used
+---------------------------------------
+I have used modern stacks like->
+ # React
+ # Node js
+ # MongoDB
+ # Redux-thunk
+ # Sass for styling
